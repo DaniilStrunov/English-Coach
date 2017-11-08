@@ -45,12 +45,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Button.cs" />
-    <Compile Include="EnglishCouch.cs" />
-    <Compile Include="ListOfWords.cs" />
-    <Compile Include="TheWord.cs" />
+    <Compile Include="Enums\Button.cs" />
+    <Compile Include="Facade\EnglishCouch.cs" />
+    <Compile Include="Domain\ListOfWords.cs" />
+    <Compile Include="Domain\TheWord.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="User.cs" />
+    <Compile Include="Domain\User.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
