@@ -1,0 +1,14 @@
+c:\users\daniil\documents\visual studio 2015\Projects\EnglishCoach\EnglishCoach\bin\Debug\EnglishCoach.dll
+c:\users\daniil\documents\visual studio 2015\Projects\EnglishCoach\EnglishCoach\bin\Debug\EnglishCoach.pdb
+c:\users\daniil\documents\visual studio 2015\Projects\EnglishCoach\EnglishCoach\bin\Debug\Newtonsoft.Json.dll
+c:\users\daniil\documents\visual studio 2015\Projects\EnglishCoach\EnglishCoach\bin\Debug\Newtonsoft.Json.xml
+c:\users\daniil\documents\visual studio 2015\Projects\EnglishCoach\EnglishCoach\obj\Debug\EnglishCoach.csprojResolveAssemblyReference.cache
+c:\users\daniil\documents\visual studio 2015\Projects\EnglishCoach\EnglishCoach\obj\Debug\EnglishCoach.dll
+c:\users\daniil\documents\visual studio 2015\Projects\EnglishCoach\EnglishCoach\obj\Debug\EnglishCoach.pdb
+D:\Projects\EnglishCoach\EnglishCoach\bin\Debug\EnglishCoach.dll
+D:\Projects\EnglishCoach\EnglishCoach\bin\Debug\EnglishCoach.pdb
+D:\Projects\EnglishCoach\EnglishCoach\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\EnglishCoach\EnglishCoach\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\EnglishCoach\EnglishCoach\obj\Debug\EnglishCoach.csprojResolveAssemblyReference.cache
+D:\Projects\EnglishCoach\EnglishCoach\obj\Debug\EnglishCoach.dll
+D:\Projects\EnglishCoach\EnglishCoach\obj\Debug\EnglishCoach.pdb
